@@ -1,0 +1,23 @@
+{
+  "name": "remoop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshMilo/remoop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshMilo/remoop/issues"
+  },
+  "homepage": "https://github.com/JoshMilo/remoop#readme",
+  "dependencies": {
+    "async": "^1.5.2",
+    "rethinkdb": "^2.2.2"
+  }
+}
